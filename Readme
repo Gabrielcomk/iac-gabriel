@@ -1,3 +1,22 @@
+INFELIZMENTE, NÃO CONSEGUI CONCLUIR O TRABALHO POIS O AZURE BLOQUEOU MINHA CONTA E NÃO DÁ PARA USAR OUTRAS POIS TODAS EXIGEM ALGO ABSURDO, COMO PAGAR 200 REAIS PARA O TESTE O QUAL VAI SER DEVOLVIDO.
+Estive seguindo o DeepSeek, ChatGPT e Gemini (USEI TODOS) para tentar me achar e concluir o trabalho, mas todos me deram a mesma coisa:
+
+CONTA COMPLETAMENTE BLOQUEADA! Microsoft bloqueou TODOS os recursos para sua conta estudante.
+
+🚨 SITUAÇÃO FINAL:
+Azure NÃO VAI FUNCIONAR para você
+
+Bloqueio em TODAS regiões
+
+Bloqueio em TODOS tipos de recursos
+
+Eles falaram que a conta estava bloqueada, não consegui criar a chave e server para poder concluir o trabalho. O Trabalho que está vendo aqui foi copiado do CAUA, apesar de eu entender ele (na maioria) eu não consegui concluir o trabalho com uma VM minha por causa disso.
+
+
+
+
+
+
 📝 README: Infraestrutura e Automação da Aplicação
 
 Este projeto utiliza Terraform para provisionar a infraestrutura na Azure e Ansible para automatizar o deploy (entrega) da aplicação em contêineres Docker.
